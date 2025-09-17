@@ -32,8 +32,7 @@ public class Main {
         Arrays.sort(arr);
         System.out.println();
         //task 3
-        double mean = 0;
-        mean = sum * 1.0 / arr.length;
+        double mean = sum * 1.0 / arr.length;
         System.out.println("Средняя сумма трат за месяц составила " + mean + " рублей.");
         System.out.println();
         //task 4
